@@ -1,10 +1,11 @@
-# team-docs-solo
 # Наш DevOps проект
 ## Описание проекта
 Здесь общее описание...
 ## Команда
-Здесь список участников...
+- Alex (Backend Developer)
 ## Стек технологий
-Здесь технологии...
+- Kubernetes
+- Ansible
 ## Инструкции по запуску
-Здесь шаги для запуска...
+1. Install dependencies
+2. Run kubectl apply -f .
